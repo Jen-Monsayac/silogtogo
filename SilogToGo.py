@@ -828,6 +828,6 @@ lblspace.grid(row = 5, column = 0)
 root.mainloop()
 """
 Jennifer Monsayac
-BSCS 1sy Year
+BSCS 1st Year
 WOW SILOG!
 """
